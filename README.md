@@ -18,8 +18,8 @@
 *ekspirować* | wygasać
 *eror /error/* |	błąd
 *fiksować* | naprawiać
-*fork n* |	odgałęzienie
-*fork v* |	odgałęzić
+*fork* |	odgałęzienie
+*forkować* |	odgałęziać
 *gap* | luka
 *generyczny* | ogólny
 *gol, target* | cel
