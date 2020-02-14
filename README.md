@@ -6,43 +6,44 @@
 *egzekuje* | wykonuje
 *inwestygacja* |	diagnozowanie
 *benefit* |	zaleta
-*commitment* |	zobowiązanie
-*load, workload* | obciążenie
+*komitment, commitment* |	zobowiązanie
+*lołd /load/<br>łorklołd /workload/* | obciążenie
 *fork n* |	odgałęzienie
 *fork v* |	odgałęzić
-*exception* |	wyjątek
+*eksepszon /exception/* |	wyjątek
 *generyczny* | ogólny
-*error* |	błąd
-*output* |	wyjście
-*bindować* |	łączyć
-*workaroundować* |	obchodzić
+*eror /error/* |	błąd
+*ałtput /output/* |	wyjście
+*bajndować* |	łączyć
+*łorkaraundować* |	obchodzić
 *dependencje* |	zależności
 *kontrybucja* |	wkład
 *mokap* |	makieta, wydmuszka
-*team* | zespół, drużyna
-*community* |społeczność
-*issue* | zagadnienie, kwestia
+*tim /team/* | zespół, drużyna
+*komunity* |społeczność
+*iszu /issue/* | zagadnienie, kwestia
 *task* | zadanie
 *fiksować* | naprawiać
-*blocker* | przeszkoda
+*bloker /blocker/* | przeszkoda
 *kredenszale, kredencjały* | poświadczenia
 *link* | odnośnik
-*submitter* | zgłaszający
-*stress* | obciązenie
-*defect* | wada, usterka
+*sabmiter /submitter/* | zgłaszający
+*stres* | obciązenie
+*difekt /defect/* | wada, usterka
 *klaryfikacja* | wyjaśnienie
-*debugować* | odpluskwiać
-*update* | aktualizacja
+*dibagować, debagować* | odpluskwiać
+*apdejt, abdejt* | aktualizacja
 *ekspirować* | wygasać
 *manualny* | ręczny
-*goal, target* | cel
-*node* | węzeł
-*call* | wywołanie, telekonferencja
-*effort* | wysiłek
-*tool* | narzędzie
-*image* | obraz
+*gol, target* | cel
+*nołd /node/* | węzeł
+*kol /call/* | wywołanie, telekonferencja
+*efort /effort/* | wysiłek, nakład pracy
+*tul /tool/* | narzędzie
+*imidż, imydż /image/* | obraz
 *rekłajerment* | wymaganie
-*good enough* | wystarczający
+*gudenaf /good enough/* | wystarczający
 *referencja* | odniesienie
-*event* | zdarzenie
+*iwent /event/* | zdarzenie
 *gap* | luka
+*asajnować* | przydzielać
