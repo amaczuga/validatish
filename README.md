@@ -2,48 +2,48 @@
 
 *Validatish* | Polish
 --- | ---
+*ałtput /output/* |	wyjście
+*apdejt, abdejt* | aktualizacja
+*asajnować* | przydzielać
+*bajndować* |	łączyć
+*benefit* |	zaleta
+*bloker /blocker/* | przeszkoda
+*dependencja* |	zależność
+*dibagować, debagować* | odpluskwiać
+*difekt /defect/* | wada, usterka
+*efort /effort/* | wysiłek, nakład pracy
 *egzekucja*	| wykonanie
 *egzekuje* | wykonuje
-*inwestygacja* |	diagnozowanie
-*benefit* |	zaleta
-*komitment /commitment/* |	zobowiązanie
-*lołd /load/<br>łorklołd /workload/* | obciążenie
+*eksepszon /exception/* |	wyjątek
+*ekspirować* | wygasać
+*eror /error/* |	błąd
+*fiksować* | naprawiać
 *fork n* |	odgałęzienie
 *fork v* |	odgałęzić
-*eksepszon /exception/* |	wyjątek
+*gap* | luka
 *generyczny* | ogólny
-*eror /error/* |	błąd
-*ałtput /output/* |	wyjście
-*bajndować* |	łączyć
-*łorkaraundować* |	obchodzić
-*dependencje* |	zależności
-*kontrybucja* |	wkład
-*mokap* |	makieta, wydmuszka
-*tim /team/* | zespół, drużyna
-*komunity* |społeczność
+*gol, target* | cel
+*gudenaf /good enough/* | wystarczający
+*imidż, imydż /image/* | obraz
+*inwestygacja* |	diagnozowanie
 *iszu /issue/* | zagadnienie, kwestia
-*task* | zadanie
-*fiksować* | naprawiać
-*bloker /blocker/* | przeszkoda
+*iwent /event/* | zdarzenie
+*klaryfikacja* | wyjaśnienie
+*kol /call/* | wywołanie, telekonferencja
+*komitment /commitment/* |	zobowiązanie
+*komunity* |społeczność
+*kontrybucja* |	wkład
 *kredenszale, kredencjały* | poświadczenia
 *link* | odnośnik
+*lołd /load/<br>łorklołd /workload/* | obciążenie
+*łorkaraundować* |	obchodzić
+*manualny* | ręczny
+*mokap* |	makieta, wydmuszka
+*nołd /node/* | węzeł
+*referencja* | odniesienie
+*rekłajerment* | wymaganie
 *sabmiter /submitter/* | zgłaszający
 *stres* | obciązenie
-*difekt /defect/* | wada, usterka
-*klaryfikacja* | wyjaśnienie
-*dibagować, debagować* | odpluskwiać
-*apdejt, abdejt* | aktualizacja
-*ekspirować* | wygasać
-*manualny* | ręczny
-*gol, target* | cel
-*nołd /node/* | węzeł
-*kol /call/* | wywołanie, telekonferencja
-*efort /effort/* | wysiłek, nakład pracy
+*task* | zadanie
+*tim /team/* | zespół, drużyna
 *tul /tool/* | narzędzie
-*imidż, imydż /image/* | obraz
-*rekłajerment* | wymaganie
-*gudenaf /good enough/* | wystarczający
-*referencja* | odniesienie
-*iwent /event/* | zdarzenie
-*gap* | luka
-*asajnować* | przydzielać
