@@ -6,7 +6,7 @@
 *egzekuje* | wykonuje
 *inwestygacja* |	diagnozowanie
 *benefit* |	zaleta
-*komitment, commitment* |	zobowiązanie
+*komitment /commitment/* |	zobowiązanie
 *lołd /load/<br>łorklołd /workload/* | obciążenie
 *fork n* |	odgałęzienie
 *fork v* |	odgałęzić
