@@ -40,8 +40,10 @@
 *manualny* | ręczny
 *mokap* |	makieta, wydmuszka
 *nołd /node/* | węzeł
+*prowizjonować, prowiżynować* | przygotować, zainstalować
 *referencja* | odniesienie
 *rekłajerment* | wymaganie
+*resors, risors* | zasób
 *sabmiter /submitter/* | zgłaszający
 *stres* | obciązenie
 *task* | zadanie
