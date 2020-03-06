@@ -32,6 +32,7 @@
 *kol /call/* | wywołanie, telekonferencja
 *komitment /commitment/* |	zobowiązanie
 *komunity* |społeczność
+*koncern /concern/* |zmartwienie
 *kontrybucja* |	wkład
 *kredenszale, kredencjały* | poświadczenia
 *link* | odnośnik
@@ -49,3 +50,4 @@
 *task* | zadanie
 *tim /team/* | zespół, drużyna
 *tul /tool/* | narzędzie
+*usetapiać* |przygotowywać
