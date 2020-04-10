@@ -46,6 +46,7 @@
 *rekłajerment* | wymaganie
 *resors, risors* | zasób
 *sabmiter /submitter/* | zgłaszający
+*skołp* | zakres
 *stres* | obciązenie
 *task* | zadanie
 *tim /team/* | zespół, drużyna
