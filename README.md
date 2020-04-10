@@ -36,7 +36,9 @@
 *kontrybucja* |	wkład
 *kredenszale, kredencjały* | poświadczenia
 *link* | odnośnik
-*lołd /load/<br>łorklołd /workload/* | obciążenie
+*lołd /load/* | obciążenie
+*Blajndlołd /blindload/* | martwy balast, obciążenie bezproduktywne
+*łorklołd /workload/* | obciążenie robocze
 *łorkaraundować* |	obchodzić
 *manualny* | ręczny
 *mokap* |	makieta, wydmuszka
@@ -44,7 +46,7 @@
 *prowizjonować, prowiżynować* | przygotować, zainstalować
 *referencja* | odniesienie
 *rekłajerment* | wymaganie
-*resors, risors* | zasób
+*resors, risors /resource/* | zasób
 *sabmiter /submitter/* | zgłaszający
 *skołp* | zakres
 *stres* | obciązenie
