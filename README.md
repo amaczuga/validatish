@@ -30,6 +30,7 @@
 *iwent /event/* | zdarzenie
 *klaryfikacja* | wyjaśnienie
 *kol /call/* | wywołanie, telekonferencja
+*kolateral* | broszura
 *komitment /commitment/* |	zobowiązanie
 *komunity* |społeczność
 *koncern /concern/* |zmartwienie
