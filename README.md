@@ -42,6 +42,7 @@
 *manualny* | ręczny
 *mokap* |	makieta, wydmuszka
 *nołd /node/* | węzeł
+*open, ołpen* | wolny wniosek
 *prowizjonować, prowiżynować* | przygotować, zainstalować
 *referencja* | odniesienie
 *rekłajerment* | wymaganie
@@ -49,6 +50,7 @@
 *sabmiter /submitter/* | zgłaszający
 *skołp* | zakres
 *stres* | obciązenie
+*szerować* | dzielić się, udostępniać
 *task* | zadanie
 *tim /team/* | zespół, drużyna
 *tul /tool/* | narzędzie
