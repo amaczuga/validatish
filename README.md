@@ -2,6 +2,7 @@
 
 *Validatish* | Polish
 --- | ---
+*alajnować* | równać, wyrównywać, zrównywać
 *ałtput /output/* |	wyjście
 *apdejt, abdejt* | aktualizacja
 *asajnować* | przydzielać
@@ -11,6 +12,7 @@
 *dependencja* |	zależność
 *dibagować, debagować* | odpluskwiać
 *difekt /defect/* | wada, usterka
+*difoltowy* | domyślny
 *efort /effort/* | wysiłek, nakład pracy
 *egzekucja*	| wykonanie
 *egzekuje* | wykonuje
@@ -24,6 +26,7 @@
 *generyczny* | ogólny
 *gol, target* | cel
 *gudenaf /good enough/* | wystarczający
+*hip /heap/* | sterta
 *imidż, imydż /image/* | obraz
 *inwestygacja* |	diagnozowanie
 *iszu /issue/* | zagadnienie, kwestia
@@ -50,6 +53,7 @@
 *sabmiter /submitter/* | zgłaszający
 *sajt* | oddział
 *skołp* | zakres
+*skedżuler, szedżuler* | terminarz
 *stres* | obciązenie
 *szerować* | dzielić się, udostępniać
 *task* | zadanie
