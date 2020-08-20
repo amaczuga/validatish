@@ -48,6 +48,7 @@
 *rekłajerment* | wymaganie
 *resors, risors* | zasób
 *sabmiter /submitter/* | zgłaszający
+*sajt* | oddział
 *skołp* | zakres
 *stres* | obciązenie
 *szerować* | dzielić się, udostępniać
