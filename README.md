@@ -13,6 +13,7 @@
 *dibagować, debagować* | odpluskwiać
 *difekt /defect/* | wada, usterka
 *difoltowy* | domyślny
+*dropować* | odłączać, anulować
 *efort /effort/* | wysiłek, nakład pracy
 *egzekucja*	| wykonanie
 *egzekuje* | wykonuje
@@ -26,6 +27,7 @@
 *generyczny* | ogólny
 *gol, target* | cel
 *gudenaf /good enough/* | wystarczający
+*hajlewelowy* | wysokopoziomowy
 *hip /heap/* | sterta
 *imidż, imydż /image/* | obraz
 *inwestygacja* |	diagnozowanie
@@ -45,6 +47,7 @@
 *manualny* | ręczny
 *mokap* |	makieta, wydmuszka
 *nołd /node/* | węzeł
+*ołwerwju* | przegląd
 *open, ołpen* | wolny wniosek
 *prowizjonować, prowiżynować* | przygotować, zainstalować
 *referencja* | odniesienie
