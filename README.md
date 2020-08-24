@@ -36,7 +36,7 @@
 *klaryfikacja* | wyjaśnienie
 *kol /call/* | wywołanie, telekonferencja
 *kolateral* | broszura
-*komitment /commitment/* |	zobowiązanie
+*komitment /commitment/* | zobowiązanie
 *komunity* |społeczność
 *koncern /concern/* |zmartwienie
 *kontrybucja* |	wkład
@@ -53,6 +53,7 @@
 *referencja* | odniesienie
 *rekłajerment* | wymaganie
 *resors, risors* | zasób
+*rewju, riwju /review/* | recenzja
 *sabmiter /submitter/* | zgłaszający
 *sajt* | oddział
 *skołp* | zakres
@@ -62,4 +63,4 @@
 *task* | zadanie
 *tim /team/* | zespół, drużyna
 *tul /tool/* | narzędzie
-*usetapiać* |przygotowywać
+*usetapiać* | przygotowywać
