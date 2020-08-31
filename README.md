@@ -5,10 +5,16 @@
 *alajnować* | równać, wyrównywać, zrównywać
 *ałtput /output/* |	wyjście
 *apdejt, abdejt* | aktualizacja
+*aplajować* | zastosować, dotyczyć
+*aprołcz* | podejście
 *asajnować* | przydzielać
-*bajndować* |	łączyć
+*bacz /batch/* | wsad
+*bajdifolt* | domyślnie
+*bajndować* |	łączyć, wiązać
+*bandłyf* | pasmo
 *benefit* |	zaleta
 *bloker /blocker/* | przeszkoda
+*czekpojnt* | punkt kontrolny
 *dependencja* |	zależność
 *dibagować, debagować* | odpluskwiać
 *difekt /defect/* | wada, usterka
@@ -20,6 +26,7 @@
 *eksepszon /exception/* |	wyjątek
 *ekspirować* | wygasać
 *eror /error/* |	błąd
+*fajlsystem* | system plików
 *fiksować* | naprawiać
 *fork* |	odgałęzienie
 *forkować* |	odgałęziać
@@ -28,6 +35,7 @@
 *gol, target* | cel
 *gudenaf /good enough/* | wystarczający
 *hajlewelowy* | wysokopoziomowy
+*hendlować* | obsługiwać
 *hip /heap/* | sterta
 *imidż, imydż /image/* | obraz
 *inwestygacja* |	diagnozowanie
@@ -37,30 +45,42 @@
 *kol /call/* | wywołanie, telekonferencja
 *kolateral* | broszura
 *komitment /commitment/* | zobowiązanie
+*komon* | ogólny, wspólny
 *komunity* |społeczność
 *koncern /concern/* |zmartwienie
 *kontrybucja* |	wkład
+*kornerkejs* | przypadek szczególny
 *kredenszale, kredencjały* | poświadczenia
 *link* | odnośnik
 *lołd /load/<br>łorklołd /workload/* | obciążenie
 *łorkaraundować* |	obchodzić
 *manualny* | ręczny
+*mjutować* | wyciszać
 *mokap* |	makieta, wydmuszka
 *nołd /node/* | węzeł
 *ołwerwju* | przegląd
 *open, ołpen* | wolny wniosek
+*owerhed* | narzut
+*performens* | wydajność
 *prowizjonować, prowiżynować* | przygotować, zainstalować
+*rajt* | zapis
 *referencja* | odniesienie
+*referować* | odnosić się
 *rekłajerment* | wymaganie
 *resors, risors* | zasób
 *rewju, riwju /review/* | recenzja
+*rid* | odczyt
+*risercz* | badanie
 *sabmiter /submitter/* | zgłaszający
 *sajt* | oddział
 *skołp* | zakres
 *skedżuler, szedżuler* | terminarz
+*snapszot* | migawka
 *stres* | obciązenie
+*striming* | przesyłanie strumieniowe
 *szerować* | dzielić się, udostępniać
 *task* | zadanie
 *tim /team/* | zespół, drużyna
 *tul /tool/* | narzędzie
 *usetapiać* | przygotowywać
+*wrapować* | opakowywać
