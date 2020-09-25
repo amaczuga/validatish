@@ -76,6 +76,7 @@
 *skołp* | zakres
 *skedżuler, szedżuler* | terminarz
 *snapszot* | migawka
+*softwar* | oprogramowanie
 *stres* | obciązenie
 *striming* | przesyłanie strumieniowe
 *szerować* | dzielić się, udostępniać
