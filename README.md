@@ -19,6 +19,7 @@
 *dibagować, debagować* | odpluskwiać
 *difekt /defect/* | wada, usterka
 *difoltowy* | domyślny
+*diplojment* | wdrożenie, instalacja
 *dropować* | odłączać, anulować
 *efort /effort/* | wysiłek, nakład pracy
 *egzekucja*	| wykonanie
@@ -84,3 +85,4 @@
 *tul /tool/* | narzędzie
 *usetapiać* | przygotowywać
 *wrapować* | opakowywać
+*zdeplojować, deplojować* | wdrożyć, zainstalować
