@@ -63,6 +63,7 @@
 *open, ołpen* | wolny wniosek
 *owerhed* | narzut
 *performens* | wydajność
+*proprajetary* | własny, prawnie zastrzeżony
 *prowizjonować, prowiżynować* | przygotować, zainstalować
 *rajt* | zapis
 *referencja* | odniesienie
