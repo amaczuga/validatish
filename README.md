@@ -78,6 +78,7 @@
 *skedżuler, szedżuler* | terminarz
 *snapszot* | migawka
 *softwar* | oprogramowanie
+*stejkholder* | interesariusz
 *stres* | obciązenie
 *striming* | przesyłanie strumieniowe
 *szerować* | dzielić się, udostępniać
