@@ -42,6 +42,7 @@
 *inwestygacja* |	diagnozowanie
 *iszu /issue/* | zagadnienie, kwestia
 *iwent /event/* | zdarzenie
+*juskejs* | przypadek użycia
 *klaryfikacja* | wyjaśnienie
 *kol /call/* | wywołanie, telekonferencja
 *kolateral* | broszura
