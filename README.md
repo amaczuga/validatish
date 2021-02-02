@@ -53,6 +53,7 @@
 *kontrybucja* |	wkład
 *kornerkejs* | przypadek szczególny
 *kredenszale, kredencjały* | poświadczenia
+*lałcz /launch/* | wydanie pierwotne, premiera
 *link* | odnośnik
 *lołd /load/<br>łorklołd /workload/* | obciążenie
 *łorkaraundować* |	obchodzić
@@ -69,6 +70,7 @@
 *rajt* | zapis
 *referencja* | odniesienie
 *referować* | odnosić się
+*rejszo /ratio/* | proporcja, stosunek, relacja
 *rekłajerment* | wymaganie
 *resors, risors* | zasób
 *rewju, riwju /review/* | recenzja
