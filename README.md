@@ -64,7 +64,7 @@
 *nołd /node/* | węzeł
 *ołwerwju* | przegląd
 *open, ołpen* | wolny wniosek
-*owerhed* | narzut
+*ołwerhed, owerhed* | narzut
 *pajplajn* | potok
 *performens* | wydajność
 *proprajetary* | własny, prawnie zastrzeżony
