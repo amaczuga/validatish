@@ -31,6 +31,7 @@
 *fiksować* | naprawiać
 *fork* |	odgałęzienie
 *forkować* |	odgałęziać
+*gajdlajn* | poradnik
 *gap* | luka
 *generyczny* | ogólny
 *gol, target* | cel
@@ -64,6 +65,7 @@
 *ołwerwju* | przegląd
 *open, ołpen* | wolny wniosek
 *owerhed* | narzut
+*pajplajn* | potok
 *performens* | wydajność
 *proprajetary* | własny, prawnie zastrzeżony
 *prowizjonować, prowiżynować* | przygotować, zainstalować
