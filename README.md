@@ -53,7 +53,7 @@
 *kontrybucja* |	wkład
 *kornerkejs* | przypadek szczególny
 *kredenszale, kredencjały* | poświadczenia
-*lałcz /launch/* | wydanie pierwotne, premiera
+*lałcz /launch/* | premiera, wodowanie
 *link* | odnośnik
 *lołd /load/<br>łorklołd /workload/* | obciążenie
 *łorkaraundować* |	obchodzić
