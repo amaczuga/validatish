@@ -76,6 +76,7 @@
 *rewju, riwju /review/* | recenzja
 *rid* | odczyt
 *risercz* | badanie
+*rołdmap, rołdmapa* | plan
 *sabmiter /submitter/* | zgłaszający
 *sajt* | oddział
 *skołp* | zakres
