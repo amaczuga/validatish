@@ -37,7 +37,7 @@
 *gol, target* | cel
 *gudenaf /good enough/* | wystarczający
 *hajlewelowy* | wysokopoziomowy
-*hendlować* | obsługiwać
+*hendlować* | obsługiwać, zajmować się
 *hip /heap/* | sterta
 *imidż, imydż /image/* | obraz
 *inwestygacja* |	diagnozowanie
