@@ -28,6 +28,7 @@
 *ekspirować* | wygasać
 *eror /error/* |	błąd
 *fajlsystem* | system plików
+*fasttrak* | skrót
 *fiksować* | naprawiać
 *fork* |	odgałęzienie
 *forkować* |	odgałęziać
@@ -44,6 +45,8 @@
 *iszu /issue/* | zagadnienie, kwestia
 *iwent /event/* | zdarzenie
 *juskejs* | przypadek użycia
+*kastomer* | klient
+*klajent* | klient
 *klaryfikacja* | wyjaśnienie
 *kol /call/* | wywołanie, telekonferencja
 *kolateral* | broszura
@@ -64,6 +67,7 @@
 *nołd /node/* | węzeł
 *ołwerwju* | przegląd
 *open, ołpen* | wolny wniosek
+*ołpensorsować* | upubliczniać kod
 *ołwerhed, owerhed* | narzut
 *pajplajn* | potok
 *performens* | wydajność
