@@ -30,6 +30,7 @@
 *fajlsystem* | system plików
 *fasttrak* | skrót
 *fiksować* | naprawiać
+*fołardować, fołordować* | przesyłać dalej
 *fork* |	odgałęzienie
 *forkować* |	odgałęziać
 *gajdlajn* | poradnik
