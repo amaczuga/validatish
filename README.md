@@ -55,6 +55,7 @@
 *komon* | ogólny, wspólny
 *komunity* |społeczność
 *koncern /concern/* |zmartwienie
+*konsideracje, konsyderacje* | rozważania
 *kontrybucja* |	wkład
 *kornerkejs* | przypadek szczególny
 *kredenszale, kredencjały* | poświadczenia
