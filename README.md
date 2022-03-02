@@ -78,6 +78,7 @@
 *performens* | wydajność
 *proprajetary* | własny, prawnie zastrzeżony
 *prowizjonować, prowiżynować* | przygotować, zainstalować
+*przełordować | zredagować
 *rajt* | zapis
 *referencja* | odniesienie
 *referować* | odnosić się
