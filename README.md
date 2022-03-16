@@ -2,7 +2,7 @@
 
 *Validatish* | Polish
 --- | ---
-*alajnować* | równać, wyrównywać, zrównywać
+*alajnować* | (wy-,z-)równać, dostosować
 *ałtput /output/* |	wyjście
 *apdejt, abdejt* | aktualizacja
 *aplajować* | zastosować, dotyczyć
@@ -14,6 +14,7 @@
 *bandłyf* | pasmo
 *benefit* |	zaleta
 *bloker /blocker/* | przeszkoda
+*czarter* | statut
 *czekpojnt* | punkt kontrolny
 *dependencja* |	zależność
 *dibagować, debagować* | odpluskwiać
@@ -22,8 +23,8 @@
 *diplojment* | wdrożenie, instalacja
 *dropować* | odłączać, anulować
 *efort /effort/* | wysiłek, nakład pracy
-*egzekucja*	| wykonanie
-*egzekuje* | wykonuje
+*egzekucja*	| wykonanie, realizacja
+*egzekuje* | wykonuje, realizuje
 *eksepszon /exception/* |	wyjątek
 *ekspirować* | wygasać
 *eror /error/* |	błąd
@@ -36,7 +37,7 @@
 *gajdlajn* | poradnik
 *gap* | luka
 *generyczny* | ogólny
-*gol, target* | cel
+*gol* | cel
 *gudenaf /good enough/* | wystarczający
 *hajlewelowy* | wysokopoziomowy
 *hendlować* | obsługiwać, zajmować się
@@ -64,9 +65,11 @@
 *lołd /load/<br>łorklołd /workload/* | obciążenie
 *łorkaraundować* |	obchodzić
 *manualny* | ręczny
+*mesydż* | przekaz
 *mjutować* | wyciszać
 *mokap* |	makieta, wydmuszka
 *nołd /node/* | węzeł
+*obdżektiw, obżektiw* | cel
 *ołwerwju* | przegląd
 *open, ołpen* | wolny wniosek
 *ołpensorsować* | upubliczniać kod
@@ -84,6 +87,7 @@
 *rewju, riwju /review/* | recenzja
 *rid* | odczyt
 *risercz* | badanie
+*rizalt* | rezultat, wynik
 *rołdmap, rołdmapa* | plan
 *sabmiter /submitter/* | zgłaszający
 *sajt* | oddział
@@ -95,9 +99,10 @@
 *stres* | obciązenie
 *striming* | przesyłanie strumieniowe
 *szerować* | dzielić się, udostępniać
+*target* | cel
 *task* | zadanie
 *tim /team/* | zespół, drużyna
 *tul /tool/* | narzędzie
 *usetapiać* | przygotowywać
 *wrapować* | opakowywać
-*zdeplojować, deplojować* | wdrożyć, zainstalować
+*(z-)deplojować* | wdrożyć, zainstalować
