@@ -12,6 +12,7 @@
 *bajdifolt* | domyślnie
 *bajndować* |	łączyć, wiązać
 *bandłyf* | pasmo
+*bejslajn, bejzlajn* | punkt odniesienia
 *benefit* |	zaleta
 *bloker /blocker/* | przeszkoda
 *czarter* | statut
@@ -74,6 +75,7 @@
 *open, ołpen* | wolny wniosek
 *ołpensorsować* | upubliczniać kod
 *ołwerhed, owerhed* | narzut
+*ołwerkil, owerkil* | przesada
 *pajplajn* | potok
 *performens* | wydajność
 *proprajetary* | własny, prawnie zastrzeżony
