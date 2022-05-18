@@ -2,6 +2,7 @@
 
 *Validatish* | Polish
 --- | ---
+*agenda* | program
 *alajnować* | (wy-,z-)równać, dostosować
 *ałtput /output/* |	wyjście
 *apdejt, abdejt* | aktualizacja
@@ -44,6 +45,7 @@
 *hendlować* | obsługiwać, zajmować się
 *hip /heap/* | sterta
 *imidż, imydż /image/* | obraz
+*imprówment* | poprawa
 *inwestygacja* |	diagnozowanie
 *iszu /issue/* | zagadnienie, kwestia
 *iwent /event/* | zdarzenie
