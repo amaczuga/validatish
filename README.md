@@ -88,6 +88,7 @@
 *referować* | odnosić się
 *rejszo /ratio/* | proporcja, stosunek, relacja
 *rekłajerment* | wymaganie
+*rekłestować, rikłestować* | wnioskować
 *resors, risors* | zasób
 *rewju, riwju /review/* | recenzja
 *rid* | odczyt
