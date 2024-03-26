@@ -18,17 +18,19 @@
 *bloker /blocker/* | przeszkoda
 *czarter* | statut
 *czekpojnt* | punkt kontrolny
+*dejli* | codzienny (-enne spotkanie)
 *dependencja* |	zależność
 *dibagować, debagować* | odpluskwiać
 *difekt /defect/* | wada, usterka
 *difoltowy* | domyślny
-*diplojment* | wdrożenie, instalacja
+*diplojment /deplojment/* | wdrożenie, instalacja
 *dropować* | odłączać, anulować
 *efort /effort/* | wysiłek, nakład pracy
 *egzekucja*	| wykonanie, realizacja
 *egzekuje* | wykonuje, realizuje
 *eksepszon /exception/* |	wyjątek
 *ekspirować* | wygasać
+*enejblement* | umożliwienie
 *eror /error/* |	błąd
 *fajlsystem* | system plików
 *fasttrak* | skrót
@@ -48,11 +50,12 @@
 *imprówment* | poprawa
 *inwestygacja* |	diagnozowanie
 *iszu /issue/* | zagadnienie, kwestia
-*iwent /event/* | zdarzenie
+*iwent /event/* | wydarzenie, zdarzenie
 *juskejs* | przypadek użycia
 *kastomer* | klient
 *klajent* | klient
 *klaryfikacja* | wyjaśnienie
+*kłoterli* | cokwartalny
 *kol /call/* | wywołanie, telekonferencja
 *kolateral* | broszura
 *komitment /commitment/* | zobowiązanie
@@ -66,7 +69,10 @@
 *lałcz /launch/* | premiera, wodowanie
 *link* | odnośnik
 *lołd /load/<br>łorklołd /workload/* | obciążenie
+*łanonłan* | spotkanie (w cztery oczy)
+*łikli* | cotygodniowy (-owe spotkanie)
 *łorkaraundować* |	obchodzić
+*łorkłik* | tydzień (pracy)
 *manualny* | ręczny
 *mesydż* | przekaz
 *mjutować* | wyciszać
@@ -80,6 +86,7 @@
 *ołwerkil, owerkil* | przesada
 *pajplajn* | potok
 *performens* | wydajność
+*pik* | ekstremum
 *proprajetary* | własny, prawnie zastrzeżony
 *prowizjonować, prowiżynować* | przygotować, zainstalować
 *przełordować* | zredagować
@@ -101,6 +108,7 @@
 *skedżuler, szedżuler* | terminarz
 *snapszot* | migawka
 *softwar* | oprogramowanie
+*spajk* | impuls
 *stejkholder* | interesariusz
 *stres* | obciązenie
 *striming* | przesyłanie strumieniowe
@@ -108,6 +116,7 @@
 *target* | cel
 *task* | zadanie
 *tim /team/* | zespół, drużyna
+*timiting* | spotkanie zespołu
 *tul /tool/* | narzędzie
 *usetapiać* | przygotowywać
 *wrapować* | opakowywać
