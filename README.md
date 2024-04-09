@@ -77,6 +77,7 @@
 *mesydż* | przekaz
 *mjutować* | wyciszać
 *mokap* |	makieta, wydmuszka
+*njusleter* | biuletyn
 *nołd /node/* | węzeł
 *obdżektiw, obżektiw* | cel
 *ołwerwju* | przegląd
