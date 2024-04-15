@@ -38,6 +38,7 @@
 *fołardować, fołordować* | przesyłać dalej
 *fork* |	odgałęzienie
 *forkować* |	odgałęziać
+*gajdens* | zalecenie
 *gajdlajn* | poradnik
 *gap* | luka
 *generyczny* | ogólny
