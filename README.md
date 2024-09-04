@@ -115,6 +115,7 @@
 *stres* | obciązenie
 *striming* | przesyłanie strumieniowe
 *szerować* | dzielić się, udostępniać
+*tajmlajn* | harmonogram
 *target* | cel
 *task* | zadanie
 *tim /team/* | zespół, drużyna
